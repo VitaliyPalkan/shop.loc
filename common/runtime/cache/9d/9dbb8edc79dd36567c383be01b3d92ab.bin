@@ -1,0 +1,16 @@
+a:2:{i:0;s:371:"<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+ <url>
+  <loc>http://shop.loc/catalog/1</loc>
+  <changefreq>daily</changefreq>
+ </url>
+ <url>
+  <loc>http://shop.loc/catalog/2</loc>
+  <changefreq>daily</changefreq>
+ </url>
+ <url>
+  <loc>http://shop.loc/catalog/3</loc>
+  <changefreq>daily</changefreq>
+ </url>
+</urlset>
+";i:1;O:25:"yii\caching\TagDependency":3:{s:4:"tags";a:1:{i:0;s:8:"products";}s:4:"data";a:1:{s:32:"33a3344413ecbe7442199ddd7003c33e";s:21:"0.12721100 1516803982";}s:8:"reusable";b:0;}}

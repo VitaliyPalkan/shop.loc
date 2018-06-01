@@ -1,0 +1,19 @@
+a:2:{i:0;s:517:"<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+ <sitemap>
+  <loc>http://shop.loc/sitemap-pages.xml</loc>
+ </sitemap>
+ <sitemap>
+  <loc>http://shop.loc/sitemap-blog-categories.xml</loc>
+ </sitemap>
+ <sitemap>
+  <loc>http://shop.loc/sitemap-blog-posts-index.xml</loc>
+ </sitemap>
+ <sitemap>
+  <loc>http://shop.loc/sitemap-shop-categories.xml</loc>
+ </sitemap>
+ <sitemap>
+  <loc>http://shop.loc/sitemap-shop-products-index.xml</loc>
+ </sitemap>
+</sitemapindex>
+";i:1;N;}
